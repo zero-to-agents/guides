@@ -9,6 +9,7 @@ Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.co
 | [EP02](guides/ep02-base-layer/) | Terminal, Homebrew and git: the base layer | macos |
 | [EP03](guides/ep03-api-keys/) | API keys without leaking them | macos |
 | [EP04](guides/ep04-ollama/) | Ollama: your first local model in five minutes | macos |
+| [EP05](guides/ep05-model-fit/) | Which local AI model fits your Mac? | macos |
 
 Tools used in the videos are in [`tools/`](tools/) (for example `ollama-speed.py`, the local model speed test from EP05).
 
