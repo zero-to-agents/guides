@@ -8,6 +8,7 @@ Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.co
 |---|---|---|
 | [EP02](guides/ep02-base-layer/) | Terminal, Homebrew and git: the base layer | macos |
 | [EP03](guides/ep03-api-keys/) | API keys without leaking them | macos |
+| [EP04](guides/ep04-ollama/) | Ollama: your first local model in five minutes | macos |
 
 New episodes every week. Found a step that no longer works? [Open an issue](../../issues).
 
