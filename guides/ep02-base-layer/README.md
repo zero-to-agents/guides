@@ -2,7 +2,7 @@
 
 # EP02 · Terminal, Homebrew and git: the base layer
 
-**Zero to Agents** · Level 0 · Mac · (video link added when the episode goes live)
+**Zero to Agents** · Level 0 · Mac · [Watch the video](https://youtu.be/jTy4HypfxoQ)
 
 > Set up a new Mac for development: Homebrew, git, the GitHub CLI and an SSH key, step by step, with the PATH mistake everyone hits.
 
