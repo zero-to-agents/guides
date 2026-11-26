@@ -1,0 +1,13 @@
+![Zero to Agents](assets/banner.png)
+
+# Zero to Agents: guides
+
+Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.com/@zerotoagents) on YouTube: a practical AI developer setup, built one layer at a time on Mac and Windows. Every command here was run for real on a clean machine.
+
+| Episode | Guide | Platform |
+|---|---|---|
+| [EP02](guides/ep02-base-layer/) | Terminal, Homebrew and git: the base layer | macos |
+
+New episodes every week. Found a step that no longer works? [Open an issue](../../issues).
+
+Guides are licensed [CC BY 4.0](LICENSE). Narration in the videos is an AI voice; production uses AI agents, reviewed by a human.
