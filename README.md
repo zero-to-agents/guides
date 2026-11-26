@@ -10,6 +10,8 @@ Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.co
 | [EP03](guides/ep03-api-keys/) | API keys without leaking them | macos |
 | [EP04](guides/ep04-ollama/) | Ollama: your first local model in five minutes | macos |
 
+Tools used in the videos are in [`tools/`](tools/) (for example `ollama-speed.py`, the local model speed test from EP05).
+
 New episodes every week. Found a step that no longer works? [Open an issue](../../issues).
 
 Guides are licensed [CC BY 4.0](LICENSE). Narration in the videos is an AI voice; production uses AI agents, reviewed by a human.
