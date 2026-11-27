@@ -12,6 +12,7 @@ Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.co
 | [EP05](guides/ep05-model-fit/) | Which local AI model fits your Mac? | macos |
 | [EP06](guides/ep06-open-webui/) | A private ChatGPT on your Mac with Open WebUI | macos |
 | [EP07](guides/ep07-claude-code-local/) | Claude Code for free, on your own Mac (with Ollama) | macos |
+| [EP08](guides/ep08-opencode-codex-local/) | OpenCode and Codex for free, on your own Mac (with Ollama) | macos |
 
 Tools used in the videos are in [`tools/`](tools/) (for example `ollama-speed.py`, the local model speed test from EP05).
 
