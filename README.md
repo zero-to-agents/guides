@@ -15,6 +15,7 @@ Step-by-step guides for every episode of [Zero to Agents](https://www.youtube.co
 | [EP08](guides/ep08-opencode-codex-local/) | OpenCode and Codex for free, on your own Mac (with Ollama) | macos |
 | [EP09](guides/ep09-agents-md/) | AGENTS.md: one file that teaches every coding agent your rules | macos |
 | [EP10](guides/ep10-claude-code-hooks/) | Claude Code hooks: a rule your AI agent can't ignore | macos |
+| [EP11](guides/ep11-mcp-servers/) | MCP servers: give your AI agent new tools (free, local) | macos |
 
 Tools used in the videos are in [`tools/`](tools/) (for example `ollama-speed.py`, the local model speed test from EP05).
 
