@@ -2,7 +2,7 @@
 
 # EP02 · Terminal, Homebrew and git: the base layer
 
-**Zero to Agents** · Level 0 · Mac · [Watch the video](https://youtu.be/jTy4HypfxoQ)
+**Zero to Agents** · Level 0 · Mac · (video link added when the episode goes live)
 
 > Set up a new Mac for development: Homebrew, git, the GitHub CLI and an SSH key, step by step, with the PATH mistake everyone hits.
 
@@ -81,7 +81,7 @@ git config --global pull.rebase false
 git config --global --list
 ```
 
-### 7. Ssh key
+### 7. SSH key
 
 Next, an SSH key. It's how your Mac proves to GitHub that it's you, with no password. We'll use the ed25519 type, which is short, fast and secure. Press Return to accept the default location, and set a passphrase. You now have two files. The one ending in `.pub` is public, and you can share it. The other one is private. Never share it, never paste it anywhere, and never commit it.
 
@@ -90,7 +90,7 @@ ssh-keygen -t ed25519 -C "zero-to-agents demo mac"
 ls ~/.ssh
 ```
 
-### 8. Ssh agent
+### 8. SSH agent
 
 So you don't type the passphrase every time, let macOS remember it in your keychain.
 
@@ -99,7 +99,7 @@ printf "Host github.com\n  AddKeysToAgent yes\n  UseKeychain yes\n  IdentityFile
 ssh-add --apple-use-keychain ~/.ssh/id_ed25519
 ```
 
-### 9. Gh auth login
+### 9. gh auth login
 
 Now sign in to GitHub from the terminal. Run gh auth login with three options: github.com, SSH for git, and sign in through the web browser. It offers to upload the SSH key we just made. Press Return to accept, and Return again to keep the default title. Then it shows a one-time code and opens your browser. In the browser, sign in, paste the code, and approve. Back in the terminal, it says you're logged in.
 

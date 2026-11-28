@@ -2,7 +2,7 @@
 
 # EP11 · MCP servers: give your AI agent new tools (free, local)
 
-**Zero to Agents** · Level 3 · Mac · [Watch the video](https://youtu.be/oJLfUVJ1pis)
+**Zero to Agents** · Level 3 · Mac · (video link added when the episode goes live)
 
 > MCP servers give an AI coding agent new tools. Connect the official Git MCP server to Claude Code on a free local model with a project .mcp.json, and allow only the tools that read.
 
@@ -64,7 +64,7 @@ Then type this into Claude Code:
 
 ## Quick reference
 
-**What mcp is**
+**What MCP is**
 
 - MCP = a standard plug for agent tools
 - A server is a small program on your Mac

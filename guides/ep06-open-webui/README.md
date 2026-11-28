@@ -102,7 +102,7 @@ Here's the fix. Open the admin settings, at slash admin, slash settings, slash m
 
 ## Next
 
-Continue with [EP07]().
+Continue with [EP07](../ep07-claude-code-local/).
 
 ---
 

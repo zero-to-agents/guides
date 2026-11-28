@@ -88,7 +88,7 @@ Here's the mistake. Grabbing the biggest version of a model. This is the same ni
 
 ## Next
 
-Continue with [EP06]().
+Continue with [EP06](../ep06-open-webui/).
 
 ---
 

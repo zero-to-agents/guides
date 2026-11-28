@@ -29,7 +29,7 @@ ollama create qwen3.5:9b-64k -f Modelfile
 ollama list
 ```
 
-### 2. Opencode
+### 2. OpenCode
 
 First, OpenCode. Make a project folder. By default OpenCode edits files and runs commands without asking, so add a small config file that tells it to ask first. Then ollama launch opencode, with the sixty four K model. Ollama offers to install it. Give it the same task as last time. It asks before creating the file. Allow once. And again before running it. Done in well under a minute.
 
@@ -88,7 +88,7 @@ Write a two-line Modelfile. Start from Qwen 3.5 nine B, and set the context to s
 
 ## Next
 
-Continue with [EP09]().
+Continue with [EP09](../ep09-agents-md/).
 
 ---
 

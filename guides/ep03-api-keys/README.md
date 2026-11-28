@@ -2,7 +2,7 @@
 
 # EP03 · API keys without leaking them
 
-**Zero to Agents** · Level 0 · Mac · [Watch the video](https://youtu.be/HAbtjOJKwic)
+**Zero to Agents** · Level 0 · Mac · (video link added when the episode goes live)
 
 > Stop leaking API keys: keep them in the macOS Keychain, load them per project with direnv, and block any commit that contains a secret with a global gitleaks hook.
 

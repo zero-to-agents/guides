@@ -49,7 +49,7 @@ ollama launch claude --model qwen3.5:9b -- -p --permission-mode acceptEdits "Cre
 head -2 src/greet.py
 ```
 
-### 4. Opencode forgets
+### 4. OpenCode forgets
 
 And OpenCode. Ask it to quote the rules it was given, without doing anything. It quotes agents dot md word for word, so it definitely read the file. But in our tests, with this small model, it usually ignored those rules while working, even when we reminded it. Reading the rules isn't the same as following them.
 
@@ -88,7 +88,7 @@ And OpenCode. Ask it to quote the rules it was given, without doing anything. It
 
 ## Next
 
-Continue with [EP10]().
+Continue with [EP10](../ep10-claude-code-hooks/).
 
 ---
 

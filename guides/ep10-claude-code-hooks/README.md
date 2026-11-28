@@ -91,7 +91,7 @@ Start Claude Code in the project, in accept edits mode, so it can write files on
 
 ## Next
 
-Continue with [EP11]().
+Continue with [EP11](../ep11-mcp-servers/).
 
 ---
 

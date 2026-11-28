@@ -99,7 +99,7 @@ Now give it a real task. Create a script that greets someone by name, with today
 
 ## Next
 
-Continue with [EP08]().
+Continue with [EP08](../ep08-opencode-codex-local/).
 
 ---
 

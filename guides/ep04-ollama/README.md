@@ -57,7 +57,7 @@ ollama run qwen3.5:4b --think=false --verbose "Write a haiku about the terminal.
 ollama ps
 ```
 
-### 5. Local api
+### 5. Local API
 
 Ollama also gives you a local API, which is how other apps and tools will talk to your models later in this series. One request, and the answer comes back from localhost. Nothing leaves your machine. Once a model is downloaded, this all works offline too. Turn off Wi-Fi and try it.
 
@@ -90,7 +90,7 @@ Here's the mistake that makes people think local AI is slow. They download a mod
 
 ## Next
 
-Continue with [EP05]().
+Continue with [EP05](../ep05-model-fit/).
 
 ---
 
